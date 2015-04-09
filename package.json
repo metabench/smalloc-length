@@ -1,0 +1,10 @@
+{
+  "name": "smalloc-length",
+  "version": "0.0.0",
+  "description": "Get smalloc length in JavaScript",
+  "private": true,
+  "dependencies": {
+    "nan": "^1.6.2"
+  },
+  "gypfile": true
+}
